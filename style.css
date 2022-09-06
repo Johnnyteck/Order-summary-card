@@ -16,6 +16,8 @@
 body {
     font-family: 'Red Hat Display', sans-serif;
     min-height: 100vh;
+    padding: 0.5rem 0;
+
     background: url(./images/pattern-background-desktop.svg), var(--pale-blue);
     background-repeat: no-repeat;
 
@@ -26,7 +28,7 @@ body {
 }
 
 .main-container {
-    max-width: 24rem;
+    max-width: 22rem;
     border-radius: 8px;
     overflow: hidden;
 
@@ -66,7 +68,8 @@ body {
 
 .text {
     text-align: left;
-    width: 10rem;
+    width: 12rem;
+    padding: 0 0 0 0.5rem;
 }
 
 .plan-name {
@@ -144,5 +147,8 @@ footer {
     }
     .main-container {
         margin: 0 1rem;
+    }
+    .text {
+        width: auto;
     }
 }
