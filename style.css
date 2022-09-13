@@ -19,7 +19,7 @@ body {
     padding: 0.5rem 0;
 
     background: url(./images/pattern-background-desktop.svg), var(--pale-blue);
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
 
     display: flex;
     flex-direction: column;
@@ -68,8 +68,8 @@ body {
 
 .text {
     text-align: left;
-    width: 12rem;
-    padding: 0 0 0 0.5rem;
+    flex-basis: 55%;
+    /* padding: 0 0 0 0.5rem; */
 }
 
 .plan-name {
