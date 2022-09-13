@@ -15,8 +15,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-IrGWLz51Mb#comment-6317720e80f8b616ef18e3ed](https://frontendmentor.com)
-- Live Site URL: [https://johnnyteck.github.io/Order-summary-card/](https://johnnyeteck.com)
+- Solution URL: [https://frontendmentor.com](https://www.frontendmentor.io/solutions/order-summary-component-IrGWLz51Mb#comment-6317720e80f8b616ef18e3ed)
+- Live Site URL: [https://johnnyteck.com](https://johnnyteck.github.io/Order-summary-card/)
 
 ## My process
 
@@ -29,6 +29,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Author
 
-- Website - [www.github.com/johnnyteck](https://www.johnnyteck.com)
-- Frontend Mentor - [https://www.frontendmentor.io/profile/Johnnyteck](@Johnnyteck)
-- Twitter - [https://www.twitter.com/JonnieDev](@JonnieDev)
+- Website - [https://www.johnnyteck.com](www.github.com/johnnyteck)
+- Frontend Mentor - [@Johnnyteck](https://www.frontendmentor.io/profile/Johnnyteck)
+- Twitter - [@JonnieDev](https://www.twitter.com/JonnieDev)
